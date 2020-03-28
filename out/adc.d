@@ -1,0 +1,15 @@
+.\out\adc.o: src\adc.c
+.\out\adc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\adc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_can.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/pin_map.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/can.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/rom.h
+.\out\adc.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/adc.h
+.\out\adc.o: src\../inc/global.h
+.\out\adc.o: src\../inc/function.h

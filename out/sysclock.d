@@ -1,0 +1,9 @@
+.\out\sysclock.o: src\sysclock.c
+.\out\sysclock.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\sysclock.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\out\sysclock.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\out\sysclock.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\out\sysclock.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/systick.h
+.\out\sysclock.o: src\../inc/global.h
+.\out\sysclock.o: src\../inc/function.h
+.\out\sysclock.o: src\../inc/uart4.h

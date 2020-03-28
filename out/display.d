@@ -1,0 +1,10 @@
+.\out\display.o: src\display.c
+.\out\display.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\out\display.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\out\display.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\out\display.o: .\ti\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+.\out\display.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/pin_map.h
+.\out\display.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\out\display.o: .\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\out\display.o: src\../inc/global.h
+.\out\display.o: src\../inc/display.h
